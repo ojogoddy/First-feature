@@ -10,3 +10,8 @@ button{
     height: 50vh;
     width: 300px;
 }
+.vision{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
