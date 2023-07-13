@@ -49,3 +49,16 @@ nav{
 .icon{
     margin-right: 20px;
 }
+
+.hero{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    height: 680px;
+}
+.hero-first h1{
+    color: white;
+    width: 600px;
+    font-size: 62px;
+    line-height: 72px;
+}
