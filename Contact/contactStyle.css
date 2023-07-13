@@ -13,6 +13,12 @@
     padding: 10px 20px;
     color: white;
     border: none;
-    background-color: blue;
+    background-color: rgba(255, 0, 0, 0.963);
     font-size: 16px;
+    text-align: center;
+ }
+ h1{
+    color: white;
+    font-size: 35px;
+    font-weight: 600;
  }
