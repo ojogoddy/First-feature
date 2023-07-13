@@ -4,3 +4,9 @@ button{
     background-color: blueviolet;
     color: white;
 }
+
+.dital-1{
+    border-radius: 5px;
+    height: 50vh;
+    width: 300px;
+}
