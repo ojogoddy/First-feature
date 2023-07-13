@@ -70,3 +70,11 @@ nav{
     margin-bottom: 60px;
     width: 650px;
 }
+.hero-first h4{
+    margin-top: 17px;
+    color: white;
+}
+.hero-arrow img{
+    margin-left: 140px;
+    margin-top: 50px;
+}
