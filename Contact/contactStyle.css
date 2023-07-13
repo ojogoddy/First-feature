@@ -3,4 +3,9 @@
     height: 90vh;
     width: 100%;
  }
- 
+ .contact{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+ }
