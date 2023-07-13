@@ -78,3 +78,57 @@ nav{
     margin-left: 140px;
     margin-top: 50px;
 }
+.hero-form{
+    height: 500px;
+    width: 410px;
+    background-color: white;
+    color: #011165;
+    border-radius: 10px;
+    text-align: center; 
+}
+.hero-form h2{
+    margin-top: 40px;
+    margin-bottom: 25px;
+}
+input{
+    width: 320px;
+    height: 60px;
+    border-radius: 7px;
+    margin-bottom: 25px;
+    background-color: #f2f2ff;
+    border: none;
+    padding: 20px;
+    color: #111111;
+}
+.hero-form button{
+    color: white;
+    width: 300px;
+    border-radius: 10px;
+    padding: 15px;
+    font-size: 18px;
+    background-color: #f4694b;
+    border: 2px solid #f4694b;
+}
+.hero-form button:hover{
+    background-color: #011165;
+    border: 2px solid #011165;
+}
+.well{
+    margin-top: 20px;
+    text-align: center;
+    padding: 0 25px;
+ }
+ .ontop-form{
+    margin-top: -60px;
+ }
+ .hero-cone img{
+    position: absolute;
+    bottom: 0;
+    right: 350px;
+    z-index: -1;
+ }
+ .cone2{
+    position: absolute;
+    bottom: 0;
+    right: 240px;
+ }
