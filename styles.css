@@ -26,3 +26,55 @@ nav{
     font-weight: 600;
     font-size: 15px;
 }
+.edge{
+    display: flex;
+    align-items: center;
+}
+.edge img{
+    padding: 10px;
+}
+.edge button{
+    color: white;
+    border-radius: 7px;
+    padding: 15px;
+    font-weight: 600;
+    background-color: #f4694b;
+    border: 2px solid #f4694b;
+}
+.edge button:hover{
+    background-color: white;
+    color: black;
+    border: 2px solid white;
+}
+.icon{
+    margin-right: 20px;
+}
+
+.hero{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    height: 680px;
+}
+.hero-first h1{
+    color: white;
+    width: 600px;
+    font-size: 62px;
+    line-height: 72px;
+}
+.hero-first p{
+    font-size: 20px;
+    color: #cfd7ff;
+    line-height: 30px;
+    margin-top: 20px;
+    margin-bottom: 60px;
+    width: 650px;
+}
+.hero-first h4{
+    margin-top: 17px;
+    color: white;
+}
+.hero-arrow img{
+    margin-left: 140px;
+    margin-top: 50px;
+}
