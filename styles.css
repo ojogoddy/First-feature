@@ -136,3 +136,13 @@ input{
     background-color: #ffffff;
     height: 650px;
  }
+ .next1-main{
+    padding: 120px 0;
+ }
+ .next1-main h1{
+    margin-bottom: 70px;
+    color: #020462;
+    font-size: 50px;
+    text-align: center;
+    letter-spacing: 1px;
+ }
