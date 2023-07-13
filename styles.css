@@ -100,3 +100,16 @@ input{
     padding: 20px;
     color: #111111;
 }
+.hero-form button{
+    color: white;
+    width: 300px;
+    border-radius: 10px;
+    padding: 15px;
+    font-size: 18px;
+    background-color: #f4694b;
+    border: 2px solid #f4694b;
+}
+.hero-form button:hover{
+    background-color: #011165;
+    border: 2px solid #011165;
+}
