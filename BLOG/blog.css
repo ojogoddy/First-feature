@@ -1,0 +1,17 @@
+button{
+    height: 50px;
+    width: 140px;
+    background-color: blueviolet;
+    color: white;
+}
+
+.dital-1{
+    border-radius: 5px;
+    height: 50vh;
+    width: 300px;
+}
+.vision{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
