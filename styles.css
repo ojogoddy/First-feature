@@ -62,3 +62,11 @@ nav{
     font-size: 62px;
     line-height: 72px;
 }
+.hero-first p{
+    font-size: 20px;
+    color: #cfd7ff;
+    line-height: 30px;
+    margin-top: 20px;
+    margin-bottom: 60px;
+    width: 650px;
+}
