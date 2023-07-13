@@ -113,3 +113,11 @@ input{
     background-color: #011165;
     border: 2px solid #011165;
 }
+.well{
+    margin-top: 20px;
+    text-align: center;
+    padding: 0 25px;
+ }
+ .ontop-form{
+    margin-top: -60px;
+ }
