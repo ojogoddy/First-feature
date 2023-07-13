@@ -121,3 +121,14 @@ input{
  .ontop-form{
     margin-top: -60px;
  }
+ .hero-cone img{
+    position: absolute;
+    bottom: 0;
+    right: 350px;
+    z-index: -1;
+ }
+ .cone2{
+    position: absolute;
+    bottom: 0;
+    right: 240px;
+ }
